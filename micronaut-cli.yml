@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.manxi.info
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, cache-caffeine, data, data-jdbc, graalvm, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, log4j2, lombok, maven, mqtt, mysql, netty-server, openapi, readme, shade, swagger-ui, test-resources, yaml]
